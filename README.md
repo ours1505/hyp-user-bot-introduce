@@ -1,4 +1,5 @@
 ###Hypixel User Info Bot
+
 ##introduce：
 This is a bot that runs on Tencent QQ online IM, it can help users to query users' game information on Hypixel server, bedware data, skyware data, skyblock data.
 This is a closed source project, you can use the bot in QQ for free.
